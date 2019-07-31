@@ -1,5 +1,5 @@
-Battlegear of Might       | Warrior LC
-Legplates of Wrath        | Warrior LC
+Battlegear of Might           | Warrior LC
+Legplates of Wrath            | Warrior LC
 Aged Core Leather Gloves  | Tank LC > Melee > Off-Spec  | Tank Threat Piece
 Ancient Petrified Leaf    | Hunter with Sinew > Hunter
 Aurastone Hammer          | Shaman  = Druid = Laser Druid = Ele Shaman  > Spriest = Priest
