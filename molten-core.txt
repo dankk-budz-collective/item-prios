@@ -27,13 +27,13 @@ Gutgore Ripper                | Off-Spec
 Heavy Dark Iron Ring          | Warrior LC  > Off-Spec                                                      | Tank Item
 Malistar's Defender           | Shaman  = Ele Shaman
 Mana Igniting Cord            | Mage  = Warlock = Laser Druid = Ele Shaman  > Off-Spec
-Medallion of Steadfast Might  | Warrior LC  > Off-Spec                                                  |Tank Item
-Onslaught Girdle|	MT LC	>	Warrior																														            |	MT Threat Piece
-Perdition's Blade|	Tank LC	>	Melee	>	Off-Spec																								          |	Tank Threat Weapon
-Quick Strike Ring|	Warrior	>	Rogue	=	Hunter	>	Off-Spec
-Robes of Volatile Power|	Mage	=	Warlock	=	Laser Druid	=	Ele Shaman	>	Off-Spec
-Sabaton's of the Flamewalker|	Off-Spec
-Shadowstrike|	Off-Spec	=	Hunter
-Spinal Reaper|	Off-Spec																																	|	Bid More Cucks
-Striker's Mark|	Melee
-Wristguards of Stability|	Feral Druid	=	Warrior	>	Off-Spec
+Medallion of Steadfast Might  | Warrior LC  > Off-Spec                                                      | Tank Item
+Onslaught Girdle              | MT LC > Warrior                                                             | MT Threat Piece
+Perdition's Blade             | Tank LC > Melee > Off-Spec                                                  | Tank Threat Weapon
+Quick Strike Ring             | Warrior > Rogue = Hunter  > Off-Spec
+Robes of Volatile Power       | Mage  = Warlock = Laser Druid = Ele Shaman  > Off-Spec
+Sabaton's of the Flamewalker  | Off-Spec
+Shadowstrike                  | Off-Spec = Hunter
+SpinalReaper                  | Off-Spec                                                                    |Bid More Cucks
+Striker's Mark                | Melee
+Wristguards of Stability      | Feral Druid = Warrior > Off-Spec
