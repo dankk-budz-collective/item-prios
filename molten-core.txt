@@ -3,8 +3,8 @@ Legplates of Wrath          |	Warrior LC
 Aged Core Leather Gloves    |	Tank LC	>	Melee	>	Off-Spec													    		  |	Tank Threat Piece
 Ancient Petrified Leaf      |	Hunter with Sinew		>	Hunter
 Aurastone Hammer            |	Shaman	=	Druid	=	Laser Druid	=	Ele Shaman	>	Spriest	=	Priest
-Band of Accuria             |	MT LC	>	Tank	=	Rogue	>	Warrior	=	Hunter	>	Off-Spec          |	MT Threat Piece
-Bindings of the Windseeker  |	Tank LC																												|	Thunderfury MT DREAM!!
+Band of Accuria             |	MT LC	>	Tank	=	Rogue	>	Warrior	=	Hunter	>	Off-Spec  |	MT Threat Piece
+Bindings of the Windseeker  |	Tank LC               |	Thunderfury MT DREAM!!
 Blastershot Launcher  |	Melee	>	Hunter
 Bone Reaver's Edge  |	Warrior																																		        |	Bid Moar Cucks
 Brutality Blade |	Rogue	=	NO Warrior	>	O Warrior	=	Hunter																	            |	NO = Non-Orc; O = Orc
