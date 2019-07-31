@@ -2,7 +2,7 @@ Battlegear of Might       | Warrior LC
 Legplates of Wrath        | Warrior LC
 Aged Core Leather Gloves  | Tank LC > Melee > Off-Spec  | Tank Threat Piece
 Ancient Petrified Leaf    | Hunter with Sinew > Hunter
-Aurastone Hammer|Shaman=Druid=LaserDruid=Ele Shaman>Spriest=Priest
+Aurastone Hammer          | Shaman  = Druid = Laser Druid = Ele Shaman  > Spriest = Priest
 Band of Accuria|MTLC>Tank=Rogue>Warrior=Hunter>Off-Spec|MT Threat Piece
 Bindings of the Windseeker|TankLC|Thunderfury MT DREAM!!
 Blastershot Launcher  |	Melee	>	Hunter
