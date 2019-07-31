@@ -1,5 +1,5 @@
-Battlegear of Might |WarriorLC
-Legplates of Wrath  |WarriorLC
+Battlegear of Might       |WarriorLC
+Legplates of Wrath        |WarriorLC
 Aged Core Leather Gloves  |TankLC>Melee>Off-Spec|Tank Threat Piece
 Ancient Petrified Leaf|HunterwithSinew>Hunter
 Aurastone Hammer|Shaman=Druid=LaserDruid=Ele Shaman>Spriest=Priest
