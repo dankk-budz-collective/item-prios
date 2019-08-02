@@ -2,7 +2,7 @@ Helm of Wrath                 | Warrior LC                                      
 Ancient Cornerstone Grimoire  | Off-Spec                                                |
 Deathbringer                  | O Warrior > NO Warrior  > Off-Spec                      | O = Orc; NO = Non-Orc
 Eskhandar's Collar            | Off-Spec                                                |
-Head of Onyxia                | MT LC = Melee = Hunter  > Off-Spec                      | Turn-in Order?
+Head of Onyxia                | MT LC = Melee = Hunter  > Off-Spec                      | Turned in Order you get it
 Mature Black Dragon Sinew     | Hunter With Leaf  > Hunter                              |
 Ring of Binding               | Off-Spec                                                |
 Shard of the Scale            | Shaman  > Spriest = Ele Shaman  = Laser Druid = Healers |
